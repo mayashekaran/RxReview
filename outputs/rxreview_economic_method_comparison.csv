@@ -1,0 +1,3 @@
+Method,Patients Reviewed,Readmissions Captured,Capture Rate,Intervention Cost,Estimated Avoided Readmissions,Net Value
+Readmission Risk Only,9935,2723,0.2406752695775146,372562.5,136.15,1669687.5
+RxReview Combined Score,9935,2644,0.23369277001944494,372562.5,132.20000000000002,1610437.5000000002

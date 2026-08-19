@@ -1,0 +1,21 @@
+Metric,Value
+Total eligible patients,99343.0
+Capacity %,10.0
+Patients selected,9935.0
+Pharmacist hours,4967.5
+Cost per review,37.5
+Intervention cost,372562.5
+Total readmissions,11314.0
+Readmissions captured,2644.0
+Readmissions missed,8670.0
+Capture rate,0.23369277001944494
+Selected readmission rate,0.2661298439859084
+Lift vs random,2.3369277001944493
+Potentially preventable readmissions,661.0
+Estimated avoided readmissions,132.20000000000002
+Gross savings,1983000.0000000002
+Net value,1610437.5000000002
+ROI,4.322596879718168
+Cost per readmission captured,140.9086611195159
+Cost per avoided readmission,2818.1732223903173
+Break-even effectiveness,0.037575642965204235

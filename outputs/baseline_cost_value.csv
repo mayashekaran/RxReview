@@ -1,0 +1,2 @@
+Review_Capacity_Percent,Pharmacist_Hourly_Cost,Minutes_Per_Review,Cost_Per_Readmission,Potentially_Preventable_Percent,Intervention_Effectiveness_Percent,Patients_Reviewed,Pharmacist_Hours,Readmissions_Captured,Capture_Rate,Lift_vs_Random,Intervention_Cost,Avoided_Readmissions,Gross_Savings,Net_Value,Break_Even_Effectiveness
+10,75.0,30,15000.0,25.0,20.0,9935,4967.5,2644,0.23369277001944494,2.3369277001944493,372562.5,132.20000000000002,1983000.0000000002,1610437.5000000002,0.037575642965204235
