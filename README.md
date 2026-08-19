@@ -61,3 +61,5 @@ The dataset is downloaded programmatically using:
 from ucimlrepo import fetch_ucirepo
 
 diabetes = fetch_ucirepo(id=296)
+```
+Hugging Face authentication: Some cells require interactive Hugging Face login. Users should authenticate with their own token when prompted. No credentials are stored in the repository.
