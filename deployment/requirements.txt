@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+safetensors
+scikit-learn==1.6.1
+xgboost==3.4.0
+joblib==1.5.3
